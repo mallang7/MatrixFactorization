@@ -1,3 +1,7 @@
+Movie2.csv 파일의 경우 movielense 데이터 movie.csv를 변형하여 영화를 장르별로 정리한 데이터임.
+
+
+
 Summary
 =======
 
